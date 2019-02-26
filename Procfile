@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT vevuzela_1096.wsgi:application
